@@ -14,3 +14,8 @@ public class RecursiveArraySum {
         return arr[index] + recursiveSum(arr, index + 1);
     }
 }
+
+Output:
+
+Array: 5 10 15 20 
+Sum of elements: 50
