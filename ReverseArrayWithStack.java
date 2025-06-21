@@ -33,3 +33,7 @@ public class ReverseArrayWithStack {
         System.out.println();
     }
 }
+Output:
+
+Original Array: 10 20 30 40 50 
+Reversed Array: 50 40 30 20 10 
