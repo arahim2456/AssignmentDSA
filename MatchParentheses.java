@@ -27,3 +27,9 @@ public class MatchParentheses {
         return stack.isEmpty();
     }
 }
+
+Output:
+
+Expression: {[(2+3)*(5-1)]}
+Balanced: true
+
